@@ -1,22 +1,22 @@
 # Tic-Tac-Toe Project
 
-Školní projekt webové implementace hry piškvorky. Aplikace je napsána v čistém JavaScriptu bez použití frameworků.
+A school project featuring a web-based implementation of Tic-Tac-Toe. The application is built using vanilla JavaScript without any external frameworks.
 
 **Live Demo:** [https://jonatan-stiburek.github.io/tic-tac-toe/](https://jonatan-stiburek.github.io/tic-tac-toe/)
 
-## Funkce
-- **Hra proti AI:** Tři úrovně obtížnosti (Easy, Normal, Hard).
-- **Minimax Algoritmus:** Nejtěžší obtížnost využívá rekurzivní algoritmus pro neporazitelnost AI.
-- **Local Multiplayer:** Režim pro dva hráče se zadáváním jmen.
-- **Validace:** Kontrola unikátnosti jmen a filtr nevhodných slov.
-- **Témata:** Přepínač mezi Dark Mode a Light Mode.
+## Features
+- **AI Game Mode:** Three difficulty levels (Easy, Normal, Hard).
+- **Minimax Algorithm:** The Hard difficulty utilizes a recursive algorithm to ensure an unbeatable AI.
+- **Local Multiplayer:** A mode for two players with custom name entry.
+- **Validation:** Unique name checks and a built-in filter for inappropriate words.
+- **Theming:** Toggle between Dark Mode and Light Mode directly in the UI.
 
-## Technologie
-- **HTML5 & CSS3:** Responzivní layout a stylování pomocí CSS proměnných.
-- **JavaScript (ES6):** Kompletní herní logika, manipulace s DOM a AI engine.
+## Technologies
+- **HTML5 & CSS3:** Responsive layout and styling using CSS variables.
+- **JavaScript (ES6):** Complete game logic, DOM manipulation, and AI engine.
 
-## Spuštění
-1. Klonujte repozitář:
+## Installation
+1. Clone the repository:
    ```bash
    git clone [https://github.com/jonisek25/tic-tac-toe.git](https://github.com/jonisek25/tic-tac-toe.git)
-2. Otevřete index.html v prohlížeči.
+2. Open index.html in your web browser.
